@@ -1,0 +1,149 @@
+ .titulo {
+    text-align: center;
+    font-family: "Franklin ITC", sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+ } 
+ .datos-inicial {
+     font-family: "Franklin ITC Light", sans-serif;
+     font-size: 18px;
+     text-align: center;
+     font-style:normal;
+     font-weight: 400;
+ }
+ .datos-publica {
+     font-size: 14px;
+     margin-bottom: 12px;
+     text-align: center;
+     font-family: "Franklin ITC Light", sans-serif;
+ }
+ .frase-principal {
+    font-family: "Franklin ITC", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center
+ }
+ figcaption {
+    font-family: georgia, serif;
+    font-size:18px;
+    font-style: italic;
+    font-weight: 400;
+    text-align: center;
+    line-height: 24px;
+    margin-bottom: 12px;
+ }
+ .parrafo-destacado {
+     font-family: georgia, serif;
+     font-size: 24px;
+     font-style: normal;
+     font-weight: 400;
+     text-align: center
+ }
+ p {
+     font-family: georgia, serif;
+     font-size: 18px;
+     font-style: normal;
+     font-weight: 400;
+     margin-block-end: 24px;
+     margin-block-start: 0px;
+     margin-bottom: 24px;
+     margin-inline-end: 132px;
+     margin-inline-start: 132px;
+     margin-left: 132px;
+     margin-right: 132px;
+ }
+ .secction {
+     font-family: "Franklin ITC", sans-serif;
+     font-size: 24px;
+     font-style: normal;
+     font-weight: 700;
+     color: rgb(186, 57, 37);
+     margin-block-end: 12px;
+     margin-block-start: 36px;
+     margin-bottom: 12px;
+     margin-inline-end: 132px;
+     margin-inline-start: 132px;
+     margin-left: 132px;
+     margin-right: 132px;
+     margin-top: 36px;
+ }
+ img {
+    margin-left: 78px;
+    margin-right: 78px;
+    vertical-align: middle;
+    text-size-adjust: 100%;
+ }
+ol {
+    
+font-family: georgia, serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+margin-block-end: 24px;
+margin-block-start: 0px;
+margin-bottom: 24px;
+margin-inline-end: 132px;
+margin-inline-start: 132px;
+margin-left: 132px;
+margin-right: 132px;
+}
+pre {
+    margin-bottom: 24px;
+    margin-left: 132px;
+    margin-right: 132px;
+}
+.sub-secction {
+    font-family: "Franklin ITC", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    margin-inline-end: 132px;
+    margin-inline-start: 132px;
+    margin-left: 132px;
+    margin-right: 132px;
+}
+ul {
+    margin-bottom: 24px;
+    margin-inline-end: 132px;
+    margin-inline-start: 132px;
+    margin-left: 132px;
+    margin-right: 132px;
+    font-family: georgia, serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+.titulo-biografia {
+    font-family: "Franklin ITC", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 30px;
+    margin-inline-end: 132px;
+    margin-inline-start: 132px;
+    margin-left: 132px;
+    margin-right: 132px;
+    text-align: center;
+}
+.sub-biografia {
+    font-family: "Franklin ITC", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    margin-inline-start: 150px;
+    margin-left: 150px;
+}
+li {
+    font-family: georgia, serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    line-height: 24px;
+}
+.contenedor-principal {
+    max-width: 1024px;
+    margin: 0 auto;
+}
